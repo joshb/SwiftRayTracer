@@ -10,7 +10,7 @@ import SwiftUI
 
 struct ContentView: View {
     var body: some View {
-        let size = 400
+        let size = 640
         let rayTracer = RayTracer(
             width: size,
             height: size,
